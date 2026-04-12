@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @ameena-sherin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ameena Sherin
 
-<!---
-ameena-sherin/ameena-sherin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Engineering Student  
+💻 Aspiring Software Developer | Python Enthusiast  
+🚀 Passionate about building real-world projects and learning new technologies  
+
+---
+
+## 👀 Interests
+- Python Development  
+- Web Development  
+- UI/UX Design  
+- Problem Solving  
+
+---
+
+## 🌱 Currently Learning
+- Python Programming  
+- Data Structures & Algorithms  
+- Web Development (HTML, CSS, JavaScript)  
+
+---
+
+## 💞️ Looking to Collaborate On
+- Beginner-friendly open source projects  
+- Python mini projects  
+- Web development projects  
+
+---
+
+## 📫 How to Reach Me
+- GitHub: @ameena-sherin  
+- LinkedIn: (https://www.linkedin.com/in/ameena-sherin-b3b284331)  
+- Email: (ameenasherinameenasherin@gmail.com)  
+
+---
+
+## ⚡ Fun Fact
+I love learning new tech and building small projects step by step 🚀
