@@ -9,7 +9,8 @@
 ## 👀 Interests
 - Python Development  
 - Web Development  
-- UI/UX Design  
+- UI/UX Design
+- Cyber Security 
 - Problem Solving  
 
 ---
